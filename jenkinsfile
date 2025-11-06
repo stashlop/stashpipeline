@@ -7,9 +7,9 @@ pipeline {
                 echo 'my name is stash tony lopes'
             }
         }
-        stage ('build'){
+        stage ('abc'){
          echo 'build the source code' 
         }
-}
+        }
       }
 }
