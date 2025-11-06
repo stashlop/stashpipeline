@@ -4,7 +4,7 @@ pipeline {
         stage('Compile') {
             steps {
                 echo 'Compile the source code' 
-                echo 'my name is stash lopes'
+                echo 'my name is stash tony lopes'
             }
         }
       }
