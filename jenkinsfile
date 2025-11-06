@@ -7,4 +7,3 @@ pipeline {
                 echo 'my name is stash lopes'
             }
         }
-        
